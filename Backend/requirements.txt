@@ -7,3 +7,4 @@ gunicorn
 sqlmodel
 python-dotenv
 psycopg2-binary
+passlib[bcrypt]
